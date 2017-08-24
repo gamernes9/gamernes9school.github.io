@@ -2,3 +2,6 @@
 html{
 	font-family: 'Open Sans', sans-serif;
 }
+table td{
+	border:1px solid black;
+}
